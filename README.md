@@ -63,11 +63,11 @@ sim.run()
 
 ## Controls
 
-Key | Action
-- | -
-`ESC` | Close the simulation
-`A` | Push the rod to the **left** from its end
-`D` | Push the rod to the **right** from its end
+| Key | Action |
+| - | - |
+| `ESC` | Close the simulation |
+| `A` | Push the rod to the **left** from its end |
+| `D` | Push the rod to the **right** from its end |
 
 ## API
 In order to understand the types you see in the function arguments, please go to `Types`.
